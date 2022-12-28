@@ -12,13 +12,15 @@ nav: true
 
 ### Other research students and alumni
 
-Jamie Mullineaux (UCL, 2022): MSc thesis, title: *Seasonality Patterns in COVID-19 infections in the UK* - **_Department's Best Project Prize_**
+Jamie Mullineaux (UCL, 2022): MSc thesis, *Seasonality Patterns in COVID-19 infections in the UK* - **_Department's Best Project Prize_**.
 
-Yujue Wang (UCL, 2021): MSc thesis, title:  *Predicting attendance at football matches* in collaboration with [SmartOdds](https://www.smartodds.co.uk).
+Yueang He (UCL, 2022): MSc thesis, *Stable marriage algorithm for student matching*.
 
-Jinghao Wang (UCL, 2021): MSc thesis, title: *Comparison of biclustering approaches to uncover CRP gene-metabolite associations* 
+Yujue Wang (UCL, 2021): MSc thesis, *Predicting attendance at football matches* in collaboration with [SmartOdds](https://www.smartodds.co.uk).
 
-Huilin Zhong (UCL, 2021): MSc thesis, title: *Using cluster analysis to inform the identification of children with Long COVID* (joint with Dr. Ferran Espuny Pujol)
+Jinghao Wang (UCL, 2021): MSc thesis, *Comparison of biclustering approaches to uncover CRP gene-metabolite associations*.
 
-[Elsie Hoffet](https://fr.linkedin.com/in/elsie-hoffet-882148130) (Imperial College London, 2019): *Applying Sparse and Robust Canonical Analysis to Breast cancer datasets* (joint with Dr. Marina Evangelou). Now Technical operations lead at Arkhn, working on medical data processing.
+Huilin Zhong (UCL, 2021): MSc thesis, *Using cluster analysis to inform the identification of children with Long COVID* (joint with Dr. Ferran Espuny Pujol).
+
+[Elsie Hoffet](https://fr.linkedin.com/in/elsie-hoffet-882148130) (Imperial College London, 2019): MSc thesis, *Applying Sparse and Robust Canonical Analysis to Breast cancer datasets* (joint with Dr. Marina Evangelou). Now Technical operations lead at Arkhn, working on medical data processing.
 
