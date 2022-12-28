@@ -36,6 +36,11 @@ figure, img {
   max-width: 90vw;
 }
 
+figure {
+  border-radius: 80%;
+  width: 150px;
+}
+
 blockquote {
   background: var(--global-bg-color);
   border-left: 2px solid var(--global-theme-color);
@@ -96,8 +101,8 @@ blockquote {
   width: 100%;
 
   .address {
-    margin-bottom: 5px;
-    margin-top: 5px;
+    margin-bottom: 15px;
+    margin-top: 15px;
     font-family: monospace;
     p {
       display: inline-block;
@@ -106,7 +111,7 @@ blockquote {
   }
 }
 .profile.float-right{
-  margin-left: 1rem;
+  margin-left: 2rem;
 }
 .profile.float-left{
   margin-right: 1rem;
