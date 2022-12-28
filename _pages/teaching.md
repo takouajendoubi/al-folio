@@ -6,14 +6,12 @@ description: Current and past courses.
 nav: true
 ---
 
-# Current
-
 <style>
 table, th, td {
   border: 1px solid white;
   border-collapse: collapse;
-  border-style: ridge;
-  height:100px;
+  border-style: none;
+  height:80px;
 }
 tr:nth-child(even) {
   background-color: #D6EEEE;
@@ -24,7 +22,7 @@ table {
        
 </style>
 
-| **Course** | **Code** | **Last term taught** |
+| **Course name** | **Course code** | **Last term taught** |
 | :---- | :------ | :--------------------- |
 | Introduction to practical statistics | [STAT0004](https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-practical-statistics-STAT0004) | Spring 2022 |
 | Linear Models and Analysis of Variance | STAT0006 | Autumn 2022 |

@@ -12,7 +12,7 @@ nav: true
 
 ### Other research students and alumni
 
-Jamie Mullineaux (UCL, 2022): MSc thesis, *Seasonality Patterns in COVID-19 infections in the UK* - **_Department's Best Project Prize_**.
+Jamie Mullineaux (UCL, 2022): MSc thesis, *Seasonality Patterns in COVID-19 infections in the UK* - **_Statistical Science Department's Best Project Award_**.
 
 Yueang He (UCL, 2022): MSc thesis, *Stable marriage algorithm for student matching*.
 
