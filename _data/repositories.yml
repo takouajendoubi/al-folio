@@ -1,10 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - takouajendoubi
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
+  - takouajendoubi/iCARH-v2.0.0
+  - takouajendoubi/whitening
   - jekyll/jekyll
   - jquery/jquery
   - FortAwesome/Font-Awesome

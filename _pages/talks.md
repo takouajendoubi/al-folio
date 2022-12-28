@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/
 title: Talks
 description: Selected meetings and conferences
-nav: false
+nav: true
 ---
 
 **Invited Talk, Webinar @ Front Line Genomics**.Title: "Multi-omics data integration: Strategies and techniques". Watch the event replay [here](https://app.livestorm.co/front-line-genomics/integrating-diverse-datasets-webinar-2-methods-of-data-integration-visualisation-and-interpretation/live?email=t.jendoubi%40ucl.ac.uk&key=5da85a2cd68e1bb9247774&s=01c38fad-1990-4c28-9db0-a1641910ebfa#/chat)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications & Talks
-nav: true
+nav: false
 dropdown: true
 children: 
     - title: Publications

@@ -1,20 +1,20 @@
 ---
 layout: page
 permalink: /group/
-title: Research group
+title: People
 description: Current and past students
 nav: true
 ---
 
-**PhD students**
+### PhD students
 
 [Ali Akbar Septiandri](https://aliakbars.id/) (PhD, 2021-present): Ali is an EPSRC PhD student and his research focuses on statistical inference for continuous variables and critical illness monitoring. His project will provide insights to the [CHIMERA](https://www.ucl.ac.uk/chimera/) team on physiological changes during ill health and recovery.
 
-**Other research students and alumni**
+### Other research students and alumni
 
-Jingwen Gao (UCL, 2021): MSc thesis, title: *Seasonality Patterns in COVID-19 infections in the UK* 
+Jamie Mullineaux (UCL, 2022): MSc thesis, title: *Seasonality Patterns in COVID-19 infections in the UK* - **_Department's Best Project Prize_**
 
-Yujue Wang (UCL, 2021): MSc thesis, title:  *Predicting attendance at football matches* 
+Yujue Wang (UCL, 2021): MSc thesis, title:  *Predicting attendance at football matches* in collaboration with [SmartOdds](https://www.smartodds.co.uk).
 
 Jinghao Wang (UCL, 2021): MSc thesis, title: *Comparison of biclustering approaches to uncover CRP gene-metabolite associations* 
 
